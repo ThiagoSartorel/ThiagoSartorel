@@ -16,7 +16,7 @@
 
 ## :headphones: Spotify Playing
 
-[![Spotify](https://thiagosartorel.novatorem.app/api/spotify)](https://open.spotify.com/user/64425eb06d9442448be28dd6587c9f24)
+[![Spotify](https://novatorem-kohl-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/64425eb06d9442448be28dd6587c9f24)
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![21 pilots](https://img.shields.io/badge/Twenty%20One%20Pilots-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2k3tf2)
 
