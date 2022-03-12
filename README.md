@@ -16,7 +16,6 @@
 
 ## 📁 Some of my works
 * 🌐 Information page <a href="https://midilages.vercel.app/">MIDILages</a>
-* 
 ## :headphones: Spotify Playing
 
 <!-- [![Spotify](https://thiagosartorel.vercel.app/api/spotify)](https://open.spotify.com/user/bulletfire.bf) -->
