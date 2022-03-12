@@ -9,6 +9,10 @@
 * 🎮 My steam profile ✌Bulleitao(https://steamcommunity.com/id/BulletFire/)
 * 📺 I make web development
 
+## 📁 Some of my works
+* 🌐 Information page <a href="https://midilages.vercel.app/">MIDILages</a>
+
+##
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagosartorel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/thiago_sartorel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
