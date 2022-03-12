@@ -10,7 +10,7 @@
 * 📺 I make web development
 
 ## 📁 Some of my works
-* 🌐 Information page <a href="https://midilages.vercel.app/" target="_blank">MIDILages</a>
+* 🌐 Information page <a href="https://midilages.vercel.app/">MIDILages</a>
 
 ##
 <p align="left">
