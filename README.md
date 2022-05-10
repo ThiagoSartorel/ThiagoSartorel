@@ -15,8 +15,8 @@
 </p>
 
 ## 📁 Some of my works
-* 🌐 Site <a href="https://midilages.vercel.app/">MIDILages</a>
-* 🌐 Site <a href="fraiburgo.com.br">Rede feminina de combate ao câncer fraiburgo</a>
+* 🌐 Web page : <a href="https://midilages.vercel.app/">MIDILages</a>
+* 🌐 ong Web page : <a href="fraiburgo.com.br">Rede feminina de combate ao câncer fraiburgo</a>
 ## :headphones: Spotify Playing
 
 <!-- [![Spotify](https://thiagosartorel.vercel.app/api/spotify)](https://open.spotify.com/user/bulletfire.bf) -->
