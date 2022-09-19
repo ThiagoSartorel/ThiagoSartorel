@@ -19,6 +19,7 @@
 * 🌐 Ong Web page : <a href="https://fraiburgo.com.br">Rede Feminina de Combate ao Câncer Fraiburgo</a>
 * 🌐 Landing Page : <a href="https://www.kriegueradvocacia.com.br/">Krieguer Advocacia</a>
 * 🌐 Blog : <a href="upeb.uniplaclages.edu.br/">Núcleo de Pesquisa em Educação Básica</a>
+* 🌐 Certificado : <a href="https://certificados.uniplaclages.edu.br//">Certificados digitais Uniplac</a>
 ## :headphones: Spotify Playing
 
 <!-- [![Spotify](https://thiagosartorel.vercel.app/api/spotify)](https://open.spotify.com/user/bulletfire.bf) -->
