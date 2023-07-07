@@ -5,9 +5,6 @@
 ## 📖 About me
 
 * 💻 I work at <a href="http://www.uniplaclages.edu.br/"> UNIPLAC  </a>
-* 🎓 I'm a student of information systems
-* 🎮 My steam profile ✌Bulleitao(https://steamcommunity.com/id/BulletFire/)
-* 📺 I make web development
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagosartorel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -15,11 +12,8 @@
 </p>
 
 ## 📁 Some of my works
-* 🌐 Web page : <a href="https://midilages.vercel.app/">MIDILages</a>
-* 🌐 Ong Web page : <a href="https://fraiburgo.com.br">Rede Feminina de Combate ao Câncer Fraiburgo</a>
-* 🌐 Landing Page : <a href="https://www.kriegueradvocacia.com.br/">Krieguer Advocacia</a>
-* 🌐 Blog : <a href="upeb.uniplaclages.edu.br/">Núcleo de Pesquisa em Educação Básica</a>
-* 🌐 Certificado : <a href="https://certificados.uniplaclages.edu.br//">Certificados digitais Uniplac</a>
+* 🌐 <a href="https://thiagoSartorel.com.br/">Portfolio</a>
+
 ## :headphones: Spotify Playing
 
 <!-- [![Spotify](https://thiagosartorel.vercel.app/api/spotify)](https://open.spotify.com/user/bulletfire.bf) -->
