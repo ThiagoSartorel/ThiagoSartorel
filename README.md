@@ -15,12 +15,6 @@ Possuo um amplo domínio em AdonisJs, uma estrutura de desenvolvimento robusta, 
 ## 📁 Meus trabalhos
 * 🌐 <a href="https://thiagoSartorel.com.br/">Portfolio</a>
 
-## :headphones: Spotify Playing
-
-<!-- [![Spotify](https://thiagosartorel.vercel.app/api/spotify)](https://open.spotify.com/user/bulletfire.bf) -->
-
-[21 pilots](https://img.shields.io/badge/Twenty%20One%20Pilots-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2k3tf2)
-
 ![Snake animation](https://github.com/thiagosartorel/thiagosartorel/blob/output/github-contribution-grid-snake.svg)
 
 -----
