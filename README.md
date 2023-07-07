@@ -3,8 +3,9 @@
 <h3 align="center">Hey there, I'm Thiago Sartorel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
+* 💻 Sou um entusiasta de desenvolvimento desde o início da minha jornada. Atualmente, trabalho na <a href="http://www.uniplaclages.edu.br/"> Universidade do Planalto Catarinense </a>, onde desempenho um papel ativo na equipe de desenvolvimento de soluções web. Meu foco principal é o desenvolvimento Back-end, mas também tenho habilidades sólidas no Front-end, banco de dados e administração de servidores.
 
-* 💻 I work at <a href="http://www.uniplaclages.edu.br/"> UNIPLAC  </a>
+Possuo um amplo domínio em AdonisJs, uma estrutura de desenvolvimento robusta, além de experiência em testes automatizados e SQL. Estou sempre em busca de oportunidades que me permitam expandir meus conhecimentos e habilidades, visando um crescimento pessoal e profissional contínuo.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagosartorel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -24,4 +25,3 @@
 
 -----
 Credits: [Thiago Sartorel](https://github.com/ThiagoSartorel)
-<h6>Last Edited on: 18/02/2022</h6>
